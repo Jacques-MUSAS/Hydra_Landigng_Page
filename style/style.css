@@ -7,10 +7,16 @@
 body{
     padding: 0;
     margin: 0;
+    background-color: #302C42;
 }
 
 .width{
     width: 150px;
+    height: auto;
+}
+
+.widthImage{
+    width: 500px;
     height: auto;
 }
 
